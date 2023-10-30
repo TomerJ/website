@@ -24,7 +24,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@icons-pack/svelte-simple-icons": "^3.0.0",
+		"@inqling/svelte-icons": "^4.0.2",
 		"@stripe/stripe-js": "^2.1.9",
 		"@sveltejs/adapter-cloudflare": "^2.3.3",
 		"axios": "^1.5.1"
