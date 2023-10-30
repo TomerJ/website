@@ -53,6 +53,13 @@
         </div>
       </div>
       <div class="text-md mb-4">
+        <p class="font-bold">Networking</p>
+        <div class="flex">
+          <Nginx class="icon w-8 mr-1" />
+          <Cloudflare class="icon w-8 mr-1" />
+        </div>
+      </div>
+      <div class="text-md mb-4">
         <p class="font-bold">Tools & Other Languages</p>
         <div class="flex">
           <Robloxstudio class="icon w-8 mr-1" />
@@ -64,8 +71,6 @@
           <Linux class="icon w-8 mr-1" />
           <Ubuntu class="icon w-8 mr-1" />
           <Vite class="icon w-8 mr-1" />
-          <Nginx class="icon w-8 mr-1" />
-          <Cloudflare class="icon w-8 mr-1" />
         </div>
       </div>
 
