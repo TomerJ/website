@@ -1,7 +1,7 @@
 <script>
 	import "../../app.css";
 
-  import { Svelte, Tailwindcss, Css3, Javascript, Html5, Typescript, Axios, Express, Nodedotjs, Mongodb, Redis, Adobeillustrator, Adobephotoshop, Adobepremierepro, Robloxstudio, Trello, Lua, Visualstudiocode, Intellijidea, Discord, Linux, Ubuntu, Vite, Nginx, Cloudflare } from "@inqling/svelte-icons/simple-icons";
+  import { Svelte, Tailwindcss, Css3, Javascript, Html5, Typescript, Axios, Express, Nodedotjs, Mongodb, Redis, Hetzner, Adobeillustrator, Adobephotoshop, Adobepremierepro, Robloxstudio, Trello, Lua, Visualstudiocode, Intellijidea, Discord, Linux, Ubuntu, Vite, Nginx, Cloudflare } from "@inqling/svelte-icons/simple-icons";
 </script>
 
   <svelte:head>
@@ -71,6 +71,7 @@
           <Linux class="icon w-8 mr-1" />
           <Ubuntu class="icon w-8 mr-1" />
           <Vite class="icon w-8 mr-1" />
+          <Hetzner class="icon w-8 mr-1" />
         </div>
       </div>
 

@@ -18,6 +18,7 @@
         <a class="pl-5" href="/skills">skills</a>
         <a class="pl-5" href="/links">important links</a>
         <a class="pl-5" href="/achievements">achievements</a>
+        <a class="pl-5" href="https://liberapay.com/">give me money</a>
       </div>
     </div>
 	
