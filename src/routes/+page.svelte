@@ -17,7 +17,7 @@
         <a href="/projects">projects</a>
         <a class="pl-5" href="/skills">skills</a>
         <a class="pl-5" href="/links">important links</a>
-        <a class="pl-5" href="/links">achievements</a>
+        <a class="pl-5" href="/achievements">achievements</a>
       </div>
     </div>
 	
